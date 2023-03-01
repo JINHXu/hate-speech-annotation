@@ -20,6 +20,8 @@ Raw data for annotation have been previously collected in [Xu, J. and Weiss, Z.,
 
 Thus our goal in the manual annotation project as part of the follow-on work is to label a sample of tweets identified as hateful by the three models to fintune LLMs with 'in-distribution' data, leading to more reliable automatic annotation thus the analysis.
 
+__As an annotation collaborator, you will only be asked to be work together with me on manual annotation__, further model training, automatic labelling and analysis will be conducted by myself. However, offer to help in later stages would be welcome and highly apprecaited.
+
 * [link to paper](https://arxiv.org/abs/2211.06116)
 
 * [link to code, data, analysis](https://github.com/JINHXu/how-much-hate-with-china)
