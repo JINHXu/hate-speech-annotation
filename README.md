@@ -5,14 +5,17 @@
 
 As part of the follow-on work of a previous analysis ([Xu, J. and Weiss, Z., 2022.](https://arxiv.org/abs/2211.06116)), the goal of this annotation project is to manually label a Hate Speech corpus (tweets) employing bianry scheme (no additional meta-data required for annotation). The plan is to at least annotate approx. 3000 tweets (collected in previous work) manually by two annotators to create a benchmark dataset for our analysis. The annotated dataset will be used to fine-tune LLMs such RoBERTa ([Liu Zhuang, Lin Wayne, Shi Ya, and Zhao Jun. 2021.](https://arxiv.org/abs/1907.11692)), BERT ([Devlin et al., NAACL 2019](https://aclanthology.org/N19-1423/)), BERTweet ([Dat Quoc Nguyen, Thanh Vu, and Anh Tuan Nguyen. 2020.](https://aclanthology.org/2020.emnlp-demos.2/)), Twitter-RoBERTa-base ([Francesco Barbieri, Jose Camacho-Collados, Luis Espinosa Anke, and Leonardo Neves. 2020.](https://aclanthology.org/2020.findings-emnlp.148/)) to improve the accuracy and reliability of our current automatic annotation pipeline for further extended analysis. 
 
-The set-up and anticipated workload (amount of data to label) is flexible and depends on how many interested collaborators who decide to participate in the project as their term project for the Annotation Hauptseminar (or only part of the term project?), we could discuss distribution of work later in a meeting either in person or on Zoom.
+The set-up and anticipated workload (amount of data to label) is flexible and depends on how many interested collaborators who decide to participate in the annotation project as their term project for the [Annotation Hauptseminar](https://moodle.uni-heidelberg.de/course/view.php?id=14622) (or only part of the term project?), we could discuss distribution of work later in a meeting either in person or on Zoom.
 
-Your work will be valued: __participants in the annotation project with sufficient contribution will be listed as co-authors__ of the follow-on work, as annotation will be an important part of the follow-on research project, which is planned to be submitted to an appropriate venue for review by Spetember 2023.
+(Please contact Prof. Herweg for questions regarding if your participation/contribution can count as term project for the Pro-/Hauptseminar)
+
+Your work will be appreciated and valued: __participants in the annotation project with sufficient contribution will be listed as co-authors__ of the follow-on work of [Xu, J. and Weiss, Z., 2022.](https://arxiv.org/abs/2211.06116), as annotation will be an important part of the follow-on research, which is planned to be submitted to an appropriate venue for review by Spetember 2023.
 
 Simply drop me an email if you are interested or have questions :)
 
 Contact: [jinghua.xu@stud.uni-heidelberg.de](mailto:jinghua.xu@stud.uni-heidelberg.de) or [xujinghua1998@gmail.com](mailto:xujinghua1998@gmail.com)
 
+(Ideally, please contact me before mid-March.)
 
 ## Raw Data, Previous Work (Xu, J. and Weiss, Z., 2022.), and Follow-on Work
 
