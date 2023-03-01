@@ -1,13 +1,14 @@
 # Hate Speech Annotation
 
-
+<!-- Annotation project in HS [Annotation Schemes: Theoretical Foundations and Practical Applications](https://moodle.uni-heidelberg.de/course/view.php?id=14622) (WS22/23) -->
+ 
 ## Project Description
 
 As part of the follow-on work of a previous analysis ([Xu, J. and Weiss, Z., 2022.](https://arxiv.org/abs/2211.06116)), the goal of this annotation project is to manually label a Hate Speech corpus (tweets) employing bianry scheme (no additional meta-data required for annotation). The plan is to at least annotate approx. 3000 tweets (collected in previous work) manually by two annotators to create a benchmark dataset for our analysis. The annotated dataset will be used to fine-tune LLMs such RoBERTa ([Liu Zhuang, Lin Wayne, Shi Ya, and Zhao Jun. 2021.](https://arxiv.org/abs/1907.11692)), BERT ([Devlin et al., NAACL 2019](https://aclanthology.org/N19-1423/)), BERTweet ([Dat Quoc Nguyen, Thanh Vu, and Anh Tuan Nguyen. 2020.](https://aclanthology.org/2020.emnlp-demos.2/)), Twitter-RoBERTa-base ([Francesco Barbieri, Jose Camacho-Collados, Luis Espinosa Anke, and Leonardo Neves. 2020.](https://aclanthology.org/2020.findings-emnlp.148/)) to improve the accuracy and reliability of our current automatic annotation pipeline for further extended analysis. 
 
-The set-up and anticipated workload (amount of data to label) is flexible and depends on how many interested collaborators who decide to participate in the annotation project as their term project for the [Annotation Hauptseminar](https://moodle.uni-heidelberg.de/course/view.php?id=14622) (or only part of the term project?), we could discuss distribution of work later in a meeting either in person or on Zoom.
+The set-up and anticipated workload (amount of data to label) is flexible and depends on how many interested collaborators who decide to participate in the annotation project, we could discuss how much you wish to contribute with all participants later in a meeting either in person or on Zoom.
 
-(Please contact Prof. Herweg for questions regarding if your participation/contribution can count as term project for the Pro-/Hauptseminar)
+<!-- (Please contact Prof. Herweg for questions regarding if your participation/contribution as a collaborator in this project can count as term project for the Pro-/Hauptseminar)-->
 
 Your work will be appreciated and valued: __participants in the annotation project with sufficient contribution will be listed as co-authors__ of the follow-on work of [Xu, J. and Weiss, Z., 2022.](https://arxiv.org/abs/2211.06116), as annotation will be an important part of the follow-on research, which is planned to be submitted to an appropriate venue for review by Spetember 2023.
 
