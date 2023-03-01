@@ -1,5 +1,6 @@
 # Hate Speech Annotation
 
+
 ## Project Description
 
 As part of the follow-on work of a previous analysis ([Xu, J. and Weiss, Z., 2022.](https://arxiv.org/abs/2211.06116)), the goal of this annotation project is to manually label a Hate Speech corpus (tweets) employing bianry scheme (no additional meta-data required for annotation). The plan is to at least annotate approx. 3000 tweets (collected in previous work) manually by two annotators to create a benchmark dataset for our analysis. The annotated dataset will be used to fine-tune LLMs such RoBERTa ([Liu Zhuang, Lin Wayne, Shi Ya, and Zhao Jun. 2021.](https://arxiv.org/abs/1907.11692)), BERT ([Devlin et al., NAACL 2019](https://aclanthology.org/N19-1423/)), BERTweet ([Dat Quoc Nguyen, Thanh Vu, and Anh Tuan Nguyen. 2020.](https://aclanthology.org/2020.emnlp-demos.2/)), Twitter-RoBERTa-base ([Francesco Barbieri, Jose Camacho-Collados, Luis Espinosa Anke, and Leonardo Neves. 2020.](https://aclanthology.org/2020.findings-emnlp.148/)) to improve the accuracy and reliability of our current automatic annotation pipeline for further extended analysis. 
