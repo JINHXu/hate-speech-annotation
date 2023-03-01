@@ -8,27 +8,21 @@ The set-up and anticipated workload (amount of data to label) is flexible and de
 
 Your work will be valued: __participants in the annotation project with sufficient contribution will be listed as co-authors__ of the follow-on work, as annotation will be an important part of the follow-on research project, which is planned to be submitted to an appropriate venue for review by Spetember 2023.
 
-Simply drop me an email if you are interested :)
+Simply drop me an email if you are interested or have questions :)
 
-_Contact: [jinghua.xu@stud.uni-heidelberg.de](mailto:jinghua.xu@stud.uni-heidelberg.de) or [xujinghua1998@gmail.com](mailto:xujinghua1998@gmail.com)_
-
-
-
-## Raw Data & Previous Work (Xu, J. and Weiss, Z., 2022.)
+Contact: [jinghua.xu@stud.uni-heidelberg.de](mailto:jinghua.xu@stud.uni-heidelberg.de) or [xujinghua1998@gmail.com](mailto:xujinghua1998@gmail.com)
 
 
-Raw data for annotation have been previously collected in [Xu, J. and Weiss, Z., 2022.](https://arxiv.org/abs/2211.06116). It contains over 2M English  tweets interested with our research topic. In previous work, all 2M tweets were labelled automatically with three LLMs for hate speech detection. 
+## Raw Data, Previous Work (Xu, J. and Weiss, Z., 2022.), and Follow-on Work
+
+
+Raw data for annotation have been previously collected in [Xu, J. and Weiss, Z., 2022.](https://arxiv.org/abs/2211.06116). It contains over 2M English  tweets interested with our research topic. In previous work, all 2M tweets were labelled automatically with three LLMs for hate speech detection. The employed automatic annotation approach need to be improved in terms of its reliability, accuracy and most importantly recall as pointed out in reviews we received after submitted to an EMNLP workshop.
+
+Thus our goal in the manual annotation project as part of the follow-on work is to label a sample of tweets identified as hateful by the three models to fintune LLMs with 'in-distribution' data, leading to more reliable automatic annotation thus the analysis.
 
 * [link to paper](https://arxiv.org/abs/2211.06116)
 
 * [link to code, data, analysis](https://github.com/JINHXu/how-much-hate-with-china)
-
-
-## Extended Description on Follow-on work
-
-* Annotation
-
-* 
 
 
 ## Further Notes
@@ -37,7 +31,7 @@ Raw data for annotation have been previously collected in [Xu, J. and Weiss, Z.,
 
 * Contact: [jinghua.xu@stud.uni-heidelberg.de](mailto:jinghua.xu@stud.uni-heidelberg.de) or [xujinghua1998@gmail.com](mailto:xujinghua1998@gmail.com)
 
-
+* [Hate Speech Annotation Presentation](https://moodle.uni-heidelberg.de/pluginfile.php/1064913/mod_resource/content/1/Xu%20Jinghua%20Annotating%20Hate%20Speech.pdf)
 
 ### Reference
 
