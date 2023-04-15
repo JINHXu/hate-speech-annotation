@@ -11,7 +11,7 @@ _An earlier project description to call for annotation participants 👉 [poster
 
 ## Data Annotation
 
-- [Annotation Guidelines]()
+- [Annotation Guidelines](https://github.com/JINHXu/hate-speech-annotation/blob/main/annotation_guidelines.md)
 
 - [Instructions working with Label Studio](https://github.com/JINHXu/hate-speech-annotation/blob/main/label_studio_instructions.md)
 
