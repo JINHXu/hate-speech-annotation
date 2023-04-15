@@ -8,6 +8,9 @@ __Please use the invitation link I sent via email to join the project named "\#c
 
 > NOTE: For Label Studio 1.7.2 you have to to confirm the dependencies libpq-dev and python3-dev are installed. As an example, to install on a Debian-based distro:
 > `sudo apt install libpq-dev python3-dev`
+
+> DEBUG: turn off any VPN services in case the backend does not response properly.
+ 
 1. `pip install label-studio`
 2. `label-studio start`
 3. Open the Label Studio UI at http://localhost:8080.
