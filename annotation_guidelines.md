@@ -4,7 +4,7 @@
     
 Welcome, and thank you for supporting this annoattion project.
 
-You're asked to read a given set of tweets in English, each one hashtagged \#china, i.e. with china-related issues as the main topic. For each tweet, we ask you to determine whether Hate Speech (label 1) is present or not (label 0).
+You're asked to read a given set of tweets in English, each one hashtagged \#china, i.e. with china-related issues as the main topic. For each tweet, we ask you to determine whether Hate Speech is present (label 1) or not (label 0).
 
 > Hate Speech is commonly defined as any communication that disparages a person or a group on the basis of some characteristic such as race, color, ethnicity, gender, sexual orientation nationality, religion, or other characteristics ([Basile et al., SemEval 2019](https://aclanthology.org/S19-2007/)).
 
@@ -49,9 +49,11 @@ Please take into account the following points when making decision regarding the
 4. feel free to run through the checklist above in the INTRODUCTION section to determine the label
 
 
-Here a list of other aspects that are NOT considered hate speech in our study:
+Here a list of other aspects that should be labbeled 0 in our study:
 
 - the rare cases of HS against a non-China-related target
+
+- generic offensive language
 
 - fake news or untrue information
 
@@ -72,15 +74,15 @@ Here a list of other aspects that are NOT considered hate speech in our study:
 - HATEFUL (against China the country, and the person referred to as 'that Chinese bitch') 
 
 This bullshit has gone on long enough !
-That Chinese bitch lives in luxury !
-Fuck the extradition, prisoner swap now &amp; close the door on Chinese 5g we don't want it ! Fuck Off #China !!!
+__That Chinese bitch__ lives in luxury !
+Fuck the extradition, prisoner swap now &amp; close the door on Chinese 5g we don't want it ! __Fuck Off #China__ !!!
 https://t.co/Okg2UCqnP2
 
 - HATEFUL (insulting with vague target, may be against China, Chinese people, South Africans or all)
 
 Chinese should have invented a sexual intercourse pandemic diseases, that would have wiped out half of South Africans.
 
-#Lockdown #Chinese #China #ChineseVirusCorona #epidemic
+#Lockdown #Chinese #China __#ChineseVirusCorona__ #epidemic
 
 - HATEFUL (contains explicit hateful hashtag)
 
@@ -94,16 +96,16 @@ __\#FuckChina__
 
 - HATEFUL (insulting the country in general)
 
-Hey #china . Next time ya wanna fuck the planet, _dig a hole an shove ya cock_ in it #jeremyvine
+Hey #china . Next time ya wanna fuck the planet, __dig a hole an shove ya cock__ in it #jeremyvine
 
 - HATEFUL (contains typical racist slur against Chinese people)
 
 If you use one of these, the __chinks__ own you.
 #China #Chinese https://t.co/jWyUD0wNt3
 
-- HATEFUL insulting Chinese population by cklaiming they eat cats and dogs
+- HATEFUL presume a country to crime ("get everyone killed")
 
-Close your FOOD Markets China!! You are going to get us all killed!! &gt;:( #China #ChinaCoronaVirus I do not want spider on my rat brain today!! CLOSE THEM!!! __And stop killing cats and dogs too!__ #ChinaLiedPeopleDied https://t.co/lkqCQ3ATRe
+Close your FOOD Markets China!! __You are going to get us all killed!!__ &gt;:( #China #ChinaCoronaVirus I do not want spider on my rat brain today!! CLOSE THEM!!! And stop killing cats and dogs too! #ChinaLiedPeopleDied https://t.co/lkqCQ3ATRe
 
 
 
@@ -134,7 +136,7 @@ Stop killing Muslims in
 
 China is the only one to blame for the outbreak of COVID-19 all over the world? Look at how America responded to COVID-19. Stop the black brothers from breathing? Of course, if Americans don't breathe, the virus won't spread #COVID19 #China #WHO
 
-5. 
+5. defamation but not hate
 
 #ChinaJoeBiden #China found a way to kill 306,000 #Americans without firing one bullet, and you think they are good for #America. So good you let #HunterBiden get rich off them. #Treason I say! #StopTheSteaI #StopTheSaleOfAmericaToChina #DemocratsAreCorrupt
 
