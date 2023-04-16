@@ -33,12 +33,25 @@ Guidelines
 
 Please take into account the following points when making decision regarding the label (0/1) of a tweet:
 
-1. in this study, we hope to examine generic hate associated with the hashtag \#china, thus HS against ant target will be taken into account, i.e. we do not limit the target group to "Chinese people"/"China the country"
+1. with \#china being a complex concept, we primarily consider Hate Speech against any China-related aspects, such as the following
 
-2. 
+    - China the country
+    - the Chinese population (domestic/abroad)
+        - domestic population residing in China
+        - Chinese immigrants to other countries
+        - non-permanent Chinese residents to other countries (tourists/students/workers/expatriate etc.)
+    - A specific Chinese person (non-political figure)/a group of Chinese persons 
+
+2. Due to the way data was collected and filtered, __HS against non-China-related targets will be rare cases, and will be considered non-HS (label 0)__
+
+3. a message that spreads, incites, promotes or justifies HATRED OR VIOLENCE TOWARDS THE TARGET, or a message that aims at dehumanizing, hurting or intimidating the target
+
+4. feel free to run through the checklist above in the INTRODUCTION section to determine the label
 
 
 Here a list of other aspects that are NOT considered hate speech in our study:
+
+- the rare cases of HS against a non-China-related target
 
 - fake news or untrue information
 
