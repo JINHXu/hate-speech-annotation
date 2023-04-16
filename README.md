@@ -18,3 +18,7 @@ _An earlier project description to call for annotation participants 👉 [poster
 
 ## Baselines
 
+- BERT
+
+- RoBERTa
+
