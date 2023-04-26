@@ -8,6 +8,10 @@ You're asked to read a given set of tweets in English, each one hashtagged \#c
 
 > Hate Speech is commonly defined as any communication that disparages a person or a group on the basis of some characteristic such as race, color, ethnicity, gender, sexual orientation nationality, religion, or other characteristics ([Basile et al., SemEval 2019](https://aclanthology.org/S19-2007/)).
 
+And according to wikipeida:
+
+> Hate speech is defined by the Cambridge Dictionary as "public speech that __expresses hate or encourages violence__ towards a person or group based on something such as race, religion, sex, or sexual orientation". Hate speech is "usually thought to include __communications of animosity or disparagement__ of an individual or a group on account of a group characteristic such as race, colour, national origin, sex, disability, religion, or sexual orientation". (Legal definitions of hate speech vary from country to country).
+
 More specifically, according to [Basile et al., SemEval 2019](https://aclanthology.org/S19-2007/) HS may include:
 
 - dehumanization or association with animals or entities considered inferior
@@ -69,6 +73,10 @@ Here a list of other aspects that should be labbeled 0 in our study:
 
 
 ## Examples
+
+- HATEFUL
+
+> The world should distance itself from this fucking #China Boycott #China #ChinaMustPay Ban #Chinesepeople around the world https://t.co/wcr0uLkfVQ
    
 - HTEFUL
 
