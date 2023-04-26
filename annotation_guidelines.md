@@ -70,6 +70,12 @@ Here a list of other aspects that should be labbeled 0 in our study:
 
 ## Examples
    
+- HTEFUL
+
+> Fuck you #XiJinping and fuck you #CCP fuck your whole fucking shithole country #China ..... Fuck you!
+#FreeTibet
+#CommunismKills
+#ChinaWillPay
 
 - HATEFUL (against China the country, and the person referred to as 'that Chinese bitch') 
 
