@@ -107,6 +107,9 @@ If you use one of these, the __chinks__ own you.
 
 Close your FOOD Markets China!! __You are going to get us all killed!!__ &gt;:( #China #ChinaCoronaVirus I do not want spider on my rat brain today!! CLOSE THEM!!! And stop killing cats and dogs too! #ChinaLiedPeopleDied https://t.co/lkqCQ3ATRe
 
+- HATE 
+
+> #China's Communists poison every society. So let's throw all of them--yes, every single last one of them--out of our country. #ThrowChinaOut
 
 
 - NOT HATEFUL tweet:
