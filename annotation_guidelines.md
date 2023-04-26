@@ -140,6 +140,10 @@ China is the only one to blame for the outbreak of COVID-19 all over the world? 
 
 #ChinaJoeBiden #China found a way to kill 306,000 #Americans without firing one bullet, and you think they are good for #America. So good you let #HunterBiden get rich off them. #Treason I say! #StopTheSteaI #StopTheSaleOfAmericaToChina #DemocratsAreCorrupt
 
+6. taget is non-China-related
+
+> Yea blame #ChinaJoe you ignorant stupid mother fucking @GOP #trump ball licking supporters.🤨#WallStreet and lazy as Fuck #white people sold #America out .😉China shit #Vietnamese goods on your shores ass fuck #AmericaFirst About 30 cargo #China,best guesstimate #NashvilleBomb https://t.co/IhYy72KrOP
+
 ### Reference
 
 Valerio Basile, Cristina Bosco, Elisabetta Fersini, Debora Nozza, Viviana Patti, Francisco Manuel Rangel Pardo, Paolo Rosso, and Manuela Sanguinetti. 2019. SemEval-2019 Task 5: Multilingual Detection of Hate Speech Against Immigrants and Women in Twitter. In Proceedings of the 13th International Workshop on Semantic Evaluation, pages 54–63, Minneapolis, Minnesota, USA. Association for Computational Linguistics.
