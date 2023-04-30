@@ -6,10 +6,12 @@ _An earlier project description to call for annotation participants 👉 [poster
 
 ## Data Collection
 
+2020, 2021, 2022, ~~2019~~
 
-## Data Sampleing
 
+## Data Sampling
 
+[sampled data](https://github.com/JINHXu/hate-speech-annotation/tree/main/data)
 
 ## Data Annotation
 
@@ -18,15 +20,26 @@ _An earlier project description to call for annotation participants 👉 [poster
 - [Instructions working with Label Studio](https://github.com/JINHXu/hate-speech-annotation/blob/main/label_studio_instructions.md)
 
 
-## Analysis [analysis]()
+## Analysis 
 
-- IAA
+- [Analysis](https://github.com/JINHXu/hate-speech-annotation/blob/main/scripts/Analysis.ipynb)
 
-- Baselines
+  - IAA
 
-  - RoberTa
-  - BERT
-  - Twitter-RoBERTa
+  - Baselines
+
+    - RoberTa
+    - BERT
+    - Twitter-RoBERTa
+
   
+## Dataset 
+
+- Annotated Data [link](https://github.com/JINHXu/hate-speech-annotation/tree/main/dataset)
   
-## Dataset
+  - minimum meta-data `min_data.csv`
+  
+  - all meta-data `data.csv`
+  
+  - train/val/test
+
