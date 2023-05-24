@@ -8,7 +8,7 @@ As part of the follow-on work of a previous analysis ([Xu, J. and Weiss, Z., 202
 
 The set-up and anticipated workload (amount of data to label) is flexible and depends on how many interested collaborators who decide to participate in the annotation project, we could discuss how much you wish to contribute with all participants later in a meeting either in person or on Zoom.
 
-(We will have to later ask Prof. Herweg if your participation/contribution could count as (or part of) term prject for the Pro-/Hauptseminar.)
+~~(We will have to later ask Prof. Herweg if your participation/contribution could count as (or part of) term prject for the Pro-/Hauptseminar.)~~
 
 <!-- (Please contact Prof. Herweg for questions regarding if your participation/contribution as a collaborator in this project can count as term project for the Pro-/Hauptseminar)-->
 
